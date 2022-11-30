@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Mouse & Keyboard/Main Menu.unity
+    guid: 35dcd7a173f8b82459c0ad5e558d713c
+  - enabled: 0
+    path: Assets/Scenes/Mouse & Keyboard/Main Scene.unity
+    guid: 82664f079f4474bb283d91fa4db665eb
+  - enabled: 0
+    path: Assets/Scenes/Mouse & Keyboard/EndGameScene.unity
+    guid: e0d3d3053613447aa9ee22aba28918c1
+  - enabled: 1
+    path: Assets/Scenes/VR/VRMain Menu.unity
+    guid: c0c114bcc8691394aadd5b21cd18cecd
+  - enabled: 1
+    path: Assets/Scenes/VR/VRScene.unity
+    guid: 41313fc71cdb2b3489b62ba365591f57
+  - enabled: 1
+    path: Assets/Scenes/VR/VREndGameScene.unity
+    guid: 02420741096881141a28a47a1215b6d2
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d7dc45bf64b82c040b235b3a4ca94d09, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cdfa2b1594dd5954ba0f57c679276f27, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 11ad5368c50da7344b1bcc81dda2814c, type: 2}
